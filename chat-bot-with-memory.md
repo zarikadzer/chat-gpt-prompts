@@ -9,9 +9,9 @@ You have two lists [#Prompts#] and [#Answers#].
 [#Prompts#] contains all previous inputs.
 [#Answers#] contains all yor previous answers.Use them as context for your completions:
 
-[#Prompts#]:
+[#Prompts#] :
 What is love?;
-[#Answers#]:
+[#Answers#] :
 Love is a strong emotion of affection and attachment towards someone or something;
 
 Write only your completion without mentioning the context or using the keywords [#Prompts#] and/or [#Answers#].
